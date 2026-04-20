@@ -1,4 +1,4 @@
-HOW TO RUN
+**HOW TO RUN**
 1️. Start the Tracker Server (First Terminal)
 bash
 cd p2p-share
